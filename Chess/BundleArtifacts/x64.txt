@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Damian Curran\Documents\Visual Studio 2015\Projects\Chess\Chess\bin\x64\Release\Chess_1.1.4.0_x64.appx

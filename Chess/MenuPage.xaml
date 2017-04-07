@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Chess.MenuPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Chess"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Name="mainGrid">
+        <!-- sets grid background to image in assests folder using imageBrush -->
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets\Background.jpg"
+                    Stretch="UniformToFill" />
+        </Grid.Background>
+        
+        <!-- button when clicked changes focus to mainPage -->
+        <Button HorizontalAlignment="Center" VerticalAlignment="Center" Name="StartGame" Width="200" Margin="0,0,8,11" Height="100" Click="btn1_click">
+            Start Game
+        </Button>
+
+    </Grid>
+    
+    
+</Page>

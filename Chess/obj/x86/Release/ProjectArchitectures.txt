@@ -1,0 +1,1 @@
+C:\Users\Damian Curran\Documents\Visual Studio 2015\Projects\Chess\Chess\Chess.csproj;x86
